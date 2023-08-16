@@ -1,5 +1,7 @@
 # Challenge 11
 
+In challenge 11 I will be evaluating the company known as MercadoLibre and searching for a way to grow the company. In order to do so we will monitor search traffic and try to use this to help Mercado gain more views/searches at different times of the year.
+
 ---------------------
 
 ## Technologies
